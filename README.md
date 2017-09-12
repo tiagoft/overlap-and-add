@@ -9,6 +9,7 @@ looking for a quick result, then you should use function `convolve` in file
 `ola3.py`:
 
 `import ola3
+
  ola3.convolve(x, y, hop_size)
  `
 
