@@ -1,2 +1,24 @@
 # overlap-and-add
-Overlap-and-add convolution in Python meant for applying reverberation in music and audio signals
+Overlap-and-add convolution in Python
+
+## Overview
+
+This module was built aiming at applying reverberation on audio signals. It
+contains several files related to speed improvement requirements. If you are
+looking for a quick result, then you should use function `convolve` in file
+`ola3.py`.
+
+
+## Underlying theory
+
+### What is a convolution and why is it related to reverberation
+
+### Overlap-and-add
+
+## Performance measurements
+
+* Time-domain convolution
+* Frequency-domain convolution
+* Frequency-domain convolution with single OLA
+* Frequency-domain convolution with double OLA
+
